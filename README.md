@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @shivv0802
 - 👀 I’m interested in Development and Problem Solving.
-- 🌱 I’m currently learning Backend and DSA.
-- 💞️ I’m looking to collaborate on projects on front end dvelopment.
-- 📫 How to reach me through my gmail - shivv9700@gmail.com 
+- 🌱 I’m currently learning DevOps and getting deep dive into Backend.
+-  📫 How to reach me through my gmail - shivv9700@gmail.com 
 - 😄 Pronouns: shivam
 - ⚡ Fun fact: good sense of humour
 
